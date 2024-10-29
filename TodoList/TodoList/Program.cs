@@ -7,9 +7,7 @@ string userChoice = Console.ReadLine();
 System.Console.WriteLine(userChoice);
 Console.WriteLine("User input: " + userChoice);
 userChoice = "ABC";
-
 var result = "abc" + "def" + "ghi";
-
 Console.WriteLine(result);
 
 

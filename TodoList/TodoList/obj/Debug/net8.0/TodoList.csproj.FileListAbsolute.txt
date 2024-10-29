@@ -12,3 +12,4 @@ C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\obj\Debug
 C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\obj\Debug\net8.0\TodoList.pdb
 C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\obj\Debug\net8.0\TodoList.genruntimeconfig.cache
 C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\obj\Debug\net8.0\ref\TodoList.dll
+c:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\obj\Debug\net8.0\TodoList.sourcelink.json
