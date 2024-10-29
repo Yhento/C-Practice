@@ -1,0 +1,14 @@
+C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\bin\Debug\net8.0\TodoList.exe
+C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\bin\Debug\net8.0\TodoList.deps.json
+C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\bin\Debug\net8.0\TodoList.runtimeconfig.json
+C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\bin\Debug\net8.0\TodoList.dll
+C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\bin\Debug\net8.0\TodoList.pdb
+C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\obj\Debug\net8.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\obj\Debug\net8.0\TodoList.AssemblyInfoInputs.cache
+C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\obj\Debug\net8.0\TodoList.AssemblyInfo.cs
+C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\obj\Debug\net8.0\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\obj\Debug\net8.0\TodoList.dll
+C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\obj\Debug\net8.0\refint\TodoList.dll
+C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\obj\Debug\net8.0\TodoList.pdb
+C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\obj\Debug\net8.0\TodoList.genruntimeconfig.cache
+C:\Users\t.payne\Documents\CSharpPractice\C#Practice\TodoList\TodoList\obj\Debug\net8.0\ref\TodoList.dll
