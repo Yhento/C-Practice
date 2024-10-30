@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\TodoList\\TodoList\\TodoList.csproj": {}
+    "C:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\TodoList\\TodoList\\TodoList.csproj": {}
   },
   "projects": {
-    "c:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\TodoList\\TodoList\\TodoList.csproj": {
+    "C:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\TodoList\\TodoList\\TodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\TodoList\\TodoList\\TodoList.csproj",
+        "projectUniqueName": "C:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\TodoList\\TodoList\\TodoList.csproj",
         "projectName": "TodoList",
-        "projectPath": "c:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\TodoList\\TodoList\\TodoList.csproj",
+        "projectPath": "C:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\TodoList\\TodoList\\TodoList.csproj",
         "packagesPath": "C:\\Users\\t.payne\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\TodoList\\TodoList\\obj\\",
+        "outputPath": "C:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\TodoList\\TodoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\t.payne\\AppData\\Roaming\\NuGet\\NuGet.Config",
