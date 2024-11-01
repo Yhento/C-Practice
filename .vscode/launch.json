@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": ".NET Core Launch (console)",
+            "name": "Launch Calculator",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
@@ -21,6 +21,28 @@
                 "/Views": "${workspaceFolder}/Views"
             },
             "console": "externalTerminal"  // Add this line
+        },
+        {
+            "name": "Launch Todo List",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/TodoList/bin/Debug/net8.0/Todolist.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Views"
+            },
+            "console": "externalTerminal"  // Add this line
         }
+
     ]
 }
