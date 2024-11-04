@@ -8,27 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\t.payne\\.nuget\\packages\\": {}
+    "C:\\Users\\darth\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\darth\\Documents\\C-Practice\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\Calculator\\Calculator.csproj",
-      "packagesPath": "C:\\Users\\t.payne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\Calculator\\obj\\",
+      "projectPath": "C:\\Users\\darth\\Documents\\C-Practice\\Calculator\\Calculator.csproj",
+      "packagesPath": "C:\\Users\\darth\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\darth\\Documents\\C-Practice\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\t.payne\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\darth\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

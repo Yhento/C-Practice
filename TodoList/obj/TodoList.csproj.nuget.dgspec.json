@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\TodoList\\TodoList.csproj": {}
+    "C:\\Users\\darth\\Documents\\C-Practice\\TodoList\\TodoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\TodoList\\TodoList.csproj": {
+    "C:\\Users\\darth\\Documents\\C-Practice\\TodoList\\TodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\TodoList\\TodoList.csproj",
+        "projectUniqueName": "C:\\Users\\darth\\Documents\\C-Practice\\TodoList\\TodoList.csproj",
         "projectName": "TodoList",
-        "projectPath": "C:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\TodoList\\TodoList.csproj",
-        "packagesPath": "C:\\Users\\t.payne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\t.payne\\Documents\\CSharpPractice\\C#Practice\\TodoList\\obj\\",
+        "projectPath": "C:\\Users\\darth\\Documents\\C-Practice\\TodoList\\TodoList.csproj",
+        "packagesPath": "C:\\Users\\darth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\darth\\Documents\\C-Practice\\TodoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\t.payne\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\darth\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
