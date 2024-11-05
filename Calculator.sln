@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList", "TodoList\TodoList.csproj", "{5EBB1D5E-3DB3-4A7F-AC8A-3C529B0AD129}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My_TodoList", "My_TodoList\My_TodoList.csproj", "{0FA08318-3A60-4196-9E21-C1D21725E4EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{5EBB1D5E-3DB3-4A7F-AC8A-3C529B0AD129}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EBB1D5E-3DB3-4A7F-AC8A-3C529B0AD129}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EBB1D5E-3DB3-4A7F-AC8A-3C529B0AD129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA08318-3A60-4196-9E21-C1D21725E4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA08318-3A60-4196-9E21-C1D21725E4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA08318-3A60-4196-9E21-C1D21725E4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA08318-3A60-4196-9E21-C1D21725E4EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

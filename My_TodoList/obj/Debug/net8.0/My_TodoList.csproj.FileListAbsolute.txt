@@ -1,0 +1,15 @@
+C:\Users\darth\Documents\C-Practice\My_TodoList\bin\Debug\net8.0\My_TodoList.exe
+C:\Users\darth\Documents\C-Practice\My_TodoList\bin\Debug\net8.0\My_TodoList.deps.json
+C:\Users\darth\Documents\C-Practice\My_TodoList\bin\Debug\net8.0\My_TodoList.runtimeconfig.json
+C:\Users\darth\Documents\C-Practice\My_TodoList\bin\Debug\net8.0\My_TodoList.dll
+C:\Users\darth\Documents\C-Practice\My_TodoList\bin\Debug\net8.0\My_TodoList.pdb
+C:\Users\darth\Documents\C-Practice\My_TodoList\obj\Debug\net8.0\My_TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darth\Documents\C-Practice\My_TodoList\obj\Debug\net8.0\My_TodoList.AssemblyInfoInputs.cache
+C:\Users\darth\Documents\C-Practice\My_TodoList\obj\Debug\net8.0\My_TodoList.AssemblyInfo.cs
+C:\Users\darth\Documents\C-Practice\My_TodoList\obj\Debug\net8.0\My_TodoList.csproj.CoreCompileInputs.cache
+C:\Users\darth\Documents\C-Practice\My_TodoList\obj\Debug\net8.0\My_TodoList.sourcelink.json
+C:\Users\darth\Documents\C-Practice\My_TodoList\obj\Debug\net8.0\My_TodoList.dll
+C:\Users\darth\Documents\C-Practice\My_TodoList\obj\Debug\net8.0\refint\My_TodoList.dll
+C:\Users\darth\Documents\C-Practice\My_TodoList\obj\Debug\net8.0\My_TodoList.pdb
+C:\Users\darth\Documents\C-Practice\My_TodoList\obj\Debug\net8.0\My_TodoList.genruntimeconfig.cache
+C:\Users\darth\Documents\C-Practice\My_TodoList\obj\Debug\net8.0\ref\My_TodoList.dll
