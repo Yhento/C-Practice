@@ -1,0 +1,5 @@
+C:\Users\darth\Documents\C-Practice\NamesSRP\obj\Debug\net9.0\NamesSRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darth\Documents\C-Practice\NamesSRP\obj\Debug\net9.0\NamesSRP.AssemblyInfoInputs.cache
+C:\Users\darth\Documents\C-Practice\NamesSRP\obj\Debug\net9.0\NamesSRP.AssemblyInfo.cs
+C:\Users\darth\Documents\C-Practice\NamesSRP\obj\Debug\net9.0\NamesSRP.csproj.CoreCompileInputs.cache
+C:\Users\darth\Documents\C-Practice\NamesSRP\obj\Debug\net9.0\NamesSRP.sourcelink.json

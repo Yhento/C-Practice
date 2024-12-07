@@ -86,13 +86,13 @@
       "console": "externalTerminal" // Add this line
     },
     {
-      "name": "Launch Names",
+      "name": "Launch NamesSingleResponsibility",
       "type": "coreclr",
       "request": "launch",
       "preLaunchTask": "build",
-      "program": "${workspaceFolder}/Names/bin/Debug/net9.0/Names.dll",
+      "program": "${workspaceFolder}/NamesSingleResponsibility/bin/Debug/net9.0/NamesSingleResponsibility.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/Names/bin/Debug/net9.0",
+      "cwd": "${workspaceFolder}/NamesSingleResponsibility/bin/Debug/net9.0",
       "stopAtEntry": false,
       "serverReadyAction": {
         "action": "openExternally",

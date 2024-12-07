@@ -1,0 +1,15 @@
+C:\Users\darth\Documents\C-Practice\NamesSingleResponsibility\bin\Debug\net9.0\NamesSingleResponsibility.exe
+C:\Users\darth\Documents\C-Practice\NamesSingleResponsibility\bin\Debug\net9.0\NamesSingleResponsibility.deps.json
+C:\Users\darth\Documents\C-Practice\NamesSingleResponsibility\bin\Debug\net9.0\NamesSingleResponsibility.runtimeconfig.json
+C:\Users\darth\Documents\C-Practice\NamesSingleResponsibility\bin\Debug\net9.0\NamesSingleResponsibility.dll
+C:\Users\darth\Documents\C-Practice\NamesSingleResponsibility\bin\Debug\net9.0\NamesSingleResponsibility.pdb
+C:\Users\darth\Documents\C-Practice\NamesSingleResponsibility\obj\Debug\net9.0\NamesSingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darth\Documents\C-Practice\NamesSingleResponsibility\obj\Debug\net9.0\NamesSingleResponsibility.AssemblyInfoInputs.cache
+C:\Users\darth\Documents\C-Practice\NamesSingleResponsibility\obj\Debug\net9.0\NamesSingleResponsibility.AssemblyInfo.cs
+C:\Users\darth\Documents\C-Practice\NamesSingleResponsibility\obj\Debug\net9.0\NamesSingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\darth\Documents\C-Practice\NamesSingleResponsibility\obj\Debug\net9.0\NamesSingleResponsibility.sourcelink.json
+C:\Users\darth\Documents\C-Practice\NamesSingleResponsibility\obj\Debug\net9.0\NamesSingleResponsibility.dll
+C:\Users\darth\Documents\C-Practice\NamesSingleResponsibility\obj\Debug\net9.0\refint\NamesSingleResponsibility.dll
+C:\Users\darth\Documents\C-Practice\NamesSingleResponsibility\obj\Debug\net9.0\NamesSingleResponsibility.pdb
+C:\Users\darth\Documents\C-Practice\NamesSingleResponsibility\obj\Debug\net9.0\NamesSingleResponsibility.genruntimeconfig.cache
+C:\Users\darth\Documents\C-Practice\NamesSingleResponsibility\obj\Debug\net9.0\ref\NamesSingleResponsibility.dll

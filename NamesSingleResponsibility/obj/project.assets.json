@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darth\\Documents\\C-Practice\\Names\\Names.csproj",
-      "projectName": "Names",
-      "projectPath": "C:\\Users\\darth\\Documents\\C-Practice\\Names\\Names.csproj",
+      "projectUniqueName": "C:\\Users\\darth\\Documents\\C-Practice\\NamesSingleResponsibility\\NamesSingleResponsibility.csproj",
+      "projectName": "NamesSingleResponsibility",
+      "projectPath": "C:\\Users\\darth\\Documents\\C-Practice\\NamesSingleResponsibility\\NamesSingleResponsibility.csproj",
       "packagesPath": "C:\\Users\\darth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darth\\Documents\\C-Practice\\Names\\obj\\",
+      "outputPath": "C:\\Users\\darth\\Documents\\C-Practice\\NamesSingleResponsibility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
